@@ -1,3 +1,4 @@
+# Created 28 June 2017
 gameOn = True
 
 while gameOn:
