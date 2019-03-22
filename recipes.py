@@ -1,3 +1,5 @@
+# Created 24 July 2017
+
 # Recipe catalog that keeps track of all my recipes
 
 recipeCatalogList =["Scrambled Eggs", "Mug Cake"]
