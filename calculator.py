@@ -1,3 +1,5 @@
+# Created 30 June 2017
+
 # Function to add numbers in the given list
 def add(number_list):
     result = 0
