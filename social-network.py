@@ -1,3 +1,5 @@
+# Created 27 July 2017
+
 class User:
     # Define the fields and methods for your object here.
     userName = ""
