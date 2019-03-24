@@ -1,3 +1,4 @@
+# Created 27 June 2017
 from turtle import *
 
 #Declare variables
